@@ -1,0 +1,107 @@
+{
+  "id": "royaumes-mossi",
+  "titre": "La fondation des royaumes mossi",
+  "type": "recit-historique",
+  "resume": "Des migrations venues de Gambaga aux royaumes de Tenkodogo, Ouagadougou, Yatenga et Gourma, l'histoire politique des Mossé.",
+  "region": "Centre",
+  "lieu": "Ouagadougou",
+  "conteur": "c3",
+  "duree": 115.635,
+  "langues": {
+    "francais": {
+      "nomLangue": "Français",
+      "audio": null,
+      "segments": [
+        {
+          "debut": 0,
+          "fin": 15.66,
+          "texte": "Avant la formation des royaumes mossi, le territoire appelé aujourd'hui pays moaga était occupé par plusieurs peuples, notamment les Bissa, les Nyonyonsé, les Gourounsi, les Kibsi, les Ninissi, les Kouroumba et les Maransé.",
+          "fr": "Avant la formation des royaumes mossi, le territoire appelé aujourd'hui pays moaga était occupé par plusieurs peuples, notamment les Bissa, les Nyonyonsé, les Gourounsi, les Kibsi, les Ninissi, les Kouroumba et les Maransé."
+        },
+        {
+          "debut": 15.94,
+          "fin": 27.59,
+          "texte": "Selon la tradition historique, les Mossé sont issus des populations Dagomba et Mamprousi venues de Gambaga, dans le nord de l'actuel Ghana, notamment à partir du quinzième siècle.",
+          "fr": "Selon la tradition historique, les Mossé sont issus des populations Dagomba et Mamprousi venues de Gambaga, dans le nord de l'actuel Ghana, notamment à partir du quinzième siècle."
+        },
+        {
+          "debut": 27.87,
+          "fin": 35.99,
+          "texte": "L'arrivée de ces populations et leur installation progressive dans la région ont favorisé la formation de plusieurs royaumes mossi.",
+          "fr": "L'arrivée de ces populations et leur installation progressive dans la région ont favorisé la formation de plusieurs royaumes mossi."
+        },
+        {
+          "debut": 36.27,
+          "fin": 47.06,
+          "texte": "Le premier royaume mossi fut celui de Tenkodogo, fondé par le prince Ouédraogo. Il constitue le point de départ de l'organisation politique des Mossé.",
+          "fr": "Le premier royaume mossi fut celui de Tenkodogo, fondé par le prince Ouédraogo. Il constitue le point de départ de l'organisation politique des Mossé."
+        },
+        {
+          "debut": 47.34,
+          "fin": 56.19,
+          "texte": "Par la suite, les descendants de Ouédraogo fondèrent d'autres royaumes qui contribuèrent à l'expansion et à l'organisation du peuple mossi.",
+          "fr": "Par la suite, les descendants de Ouédraogo fondèrent d'autres royaumes qui contribuèrent à l'expansion et à l'organisation du peuple mossi."
+        },
+        {
+          "debut": 56.47,
+          "fin": 63.2,
+          "texte": "Le royaume de Tenkodogo, fondé par Ouédraogo, est considéré comme le premier royaume mossi.",
+          "fr": "Le royaume de Tenkodogo, fondé par Ouédraogo, est considéré comme le premier royaume mossi."
+        },
+        {
+          "debut": 63.48,
+          "fin": 73.135,
+          "texte": "Le royaume de l'Oubritenga fut fondé par Oubri, descendant de Ouédraogo. Ce royaume devint par la suite le royaume de Ouagadougou.",
+          "fr": "Le royaume de l'Oubritenga fut fondé par Oubri, descendant de Ouédraogo. Ce royaume devint par la suite le royaume de Ouagadougou."
+        },
+        {
+          "debut": 73.415,
+          "fin": 85.31,
+          "texte": "Le royaume du Zandoma fut fondé par Rawa, fils de Ouédraogo. Il est associé à la formation du royaume du Yatenga, dont Yadéga fut une figure fondatrice.",
+          "fr": "Le royaume du Zandoma fut fondé par Rawa, fils de Ouédraogo. Il est associé à la formation du royaume du Yatenga, dont Yadéga fut une figure fondatrice."
+        },
+        {
+          "debut": 85.59,
+          "fin": 96.085,
+          "texte": "Le royaume du Gourma fut fondé par Diaba Lompo, fils de Yennenga et de Rialé. Son centre politique se développa autour de Fada N'Gourma.",
+          "fr": "Le royaume du Gourma fut fondé par Diaba Lompo, fils de Yennenga et de Rialé. Son centre politique se développa autour de Fada N'Gourma."
+        },
+        {
+          "debut": 96.365,
+          "fin": 105.465,
+          "texte": "La formation des royaumes mossi résulte de migrations, d'alliances et de conquêtes qui ont progressivement organisé les populations de la région.",
+          "fr": "La formation des royaumes mossi résulte de migrations, d'alliances et de conquêtes qui ont progressivement organisé les populations de la région."
+        },
+        {
+          "debut": 105.745,
+          "fin": 115.635,
+          "texte": "Les descendants de Ouédraogo et de Yennenga ont joué un rôle essentiel dans la fondation de plusieurs royaumes qui ont marqué l'histoire du Burkina Faso.",
+          "fr": "Les descendants de Ouédraogo et de Yennenga ont joué un rôle essentiel dans la fondation de plusieurs royaumes qui ont marqué l'histoire du Burkina Faso."
+        }
+      ]
+    }
+  },
+  "scenes": {
+    "debut": {
+      "themeVisuel": "harmattan-vent",
+      "ambiance": "savane",
+      "description": "Des migrations venues de Gambaga aux royaumes de Tenkodogo, Ouagadougou, Yatenga et Gourma, l'histoire politique des Mossé.",
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "titreFin": "Quatre royaumes, une histoire",
+      "fin": "Tenkodogo, Ouagadougou, Yatenga et Gourma structurent progressivement l'espace mossi. Les descendants de Ouédraogo et de Yennenga jouent un rôle central dans cette histoire.",
+      "morale": "Migrations, alliances et conquêtes ont façonné les royaumes mossi."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c1",
+    "nom": "Tradition orale mossi",
+    "initiale": "T",
+    "village": "Tenkodogo",
+    "region": "Centre-Est",
+    "langue": "Français",
+    "bio": "Récit fondateur transmis par la tradition orale mossi, restitué ici en version française pour la démonstration.",
+    "consentement": true,
+    "licence": "Domaine public"
+  },
+  {
+    "id": "c2",
+    "nom": "Mémoire de Bobo-Dioulasso",
+    "initiale": "M",
+    "village": "Bobo-Dioulasso",
+    "region": "Hauts-Bassins",
+    "langue": "Français",
+    "bio": "Récit historique conservé par la mémoire de Bobo-Dioulasso, restitué ici en version française.",
+    "consentement": true,
+    "licence": "Domaine public"
+  },
+  {
+    "id": "c3",
+    "nom": "Chronique des royaumes mossi",
+    "initiale": "C",
+    "village": "Ouagadougou",
+    "region": "Centre",
+    "langue": "Français",
+    "bio": "Synthèse historique des royaumes mossi, racontée en français à partir de la tradition et des récits fondateurs.",
+    "consentement": true,
+    "licence": "Domaine public"
+  }
+]

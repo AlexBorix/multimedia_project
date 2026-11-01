@@ -1,0 +1,5 @@
+Développer une application web immersive visant à préserver, numériser et transmettre
+le patrimoine oral burkinabè. La plateforme permet de parcourir le Burkina Faso à travers
+une carte interactive 3D/2D, de découvrir des contes, légendes et récits historiques
+locaux enrichis par des illustrations animées, des bandes sonores audio en langues
+nationales (Mooré, Dioula, Fulfulde, etc.), et une expérience narrative interactive.

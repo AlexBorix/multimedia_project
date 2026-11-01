@@ -1,0 +1,107 @@
+{
+  "id": "yennenga",
+  "titre": "La princesse Yennenga",
+  "type": "recit-historique",
+  "resume": "Fille du roi Nedega, la cavalière Yennenga quitte Gambaga, rencontre Rialé et donne naissance à Ouédraogo, fondateur de Tenkodogo.",
+  "region": "Centre-Est",
+  "lieu": "Tenkodogo",
+  "conteur": "c1",
+  "duree": 112.995,
+  "langues": {
+    "francais": {
+      "nomLangue": "Français",
+      "audio": null,
+      "segments": [
+        {
+          "debut": 0,
+          "fin": 10.065,
+          "texte": "La princesse Yennenga, de son véritable nom Poko, serait née à Gambaga, dans le nord de l'actuel Ghana, entre le onzième et le quinzième siècle.",
+          "fr": "La princesse Yennenga, de son véritable nom Poko, serait née à Gambaga, dans le nord de l'actuel Ghana, entre le onzième et le quinzième siècle."
+        },
+        {
+          "debut": 10.345,
+          "fin": 20.42,
+          "texte": "Elle était la fille du roi Nedega et de la reine Napoko. Son père régnait sur un royaume prospère, peuplé notamment des Dagomba et des Mamprousi.",
+          "fr": "Elle était la fille du roi Nedega et de la reine Napoko. Son père régnait sur un royaume prospère, peuplé notamment des Dagomba et des Mamprousi."
+        },
+        {
+          "debut": 20.7,
+          "fin": 31.735,
+          "texte": "Dès son adolescence, Yennenga se distinguait par son courage et ses talents de cavalière. Elle maîtrisait l'équitation et le maniement des armes traditionnelles.",
+          "fr": "Dès son adolescence, Yennenga se distinguait par son courage et ses talents de cavalière. Elle maîtrisait l'équitation et le maniement des armes traditionnelles."
+        },
+        {
+          "debut": 32.015,
+          "fin": 40.4,
+          "texte": "Ses exploits militaires lui valurent le respect de ses compagnons d'armes. Elle participa à plusieurs campagnes guerrières.",
+          "fr": "Ses exploits militaires lui valurent le respect de ses compagnons d'armes. Elle participa à plusieurs campagnes guerrières."
+        },
+        {
+          "debut": 40.68,
+          "fin": 52.045,
+          "texte": "Cependant, son père refusait de la laisser se marier. Pour lui montrer son malheur, Yennenga planta des graines de gombo, les laissa pousser, puis pourrir.",
+          "fr": "Cependant, son père refusait de la laisser se marier. Pour lui montrer son malheur, Yennenga planta des graines de gombo, les laissa pousser, puis pourrir."
+        },
+        {
+          "debut": 52.325,
+          "fin": 64.29,
+          "texte": "Le roi lui demanda des explications. Elle répondit : « Mon père, vous me laissez dépérir comme dépérit ce champ de gombo. » Furieux, le roi la fit enfermer.",
+          "fr": "Le roi lui demanda des explications. Elle répondit : « Mon père, vous me laissez dépérir comme dépérit ce champ de gombo. » Furieux, le roi la fit enfermer."
+        },
+        {
+          "debut": 64.57,
+          "fin": 70.45,
+          "texte": "Après plusieurs désaccords avec son père, Yennenga décida de fuir le royaume.",
+          "fr": "Après plusieurs désaccords avec son père, Yennenga décida de fuir le royaume."
+        },
+        {
+          "debut": 70.73,
+          "fin": 80.56,
+          "texte": "Au cours de sa fuite, elle rencontra Rialé, un jeune chasseur d'origine princière. Ils tombèrent amoureux et décidèrent de vivre ensemble.",
+          "fr": "Au cours de sa fuite, elle rencontra Rialé, un jeune chasseur d'origine princière. Ils tombèrent amoureux et décidèrent de vivre ensemble."
+        },
+        {
+          "debut": 80.84,
+          "fin": 91.85,
+          "texte": "De leur union naquit un garçon qu'ils appelèrent Ouédraogo, un nom qui signifie « cheval mâle » ou « étalon », en hommage au cheval qui avait conduit la princesse jusqu'à Rialé.",
+          "fr": "De leur union naquit un garçon qu'ils appelèrent Ouédraogo, un nom qui signifie « cheval mâle » ou « étalon », en hommage au cheval qui avait conduit la princesse jusqu'à Rialé."
+        },
+        {
+          "debut": 92.13,
+          "fin": 103.05,
+          "texte": "Ouédraogo devint une figure importante du peuple mossi. Après la mort de son père, il établit sa capitale à Tenkodogo, qui signifie « vieille terre ».",
+          "fr": "Ouédraogo devint une figure importante du peuple mossi. Après la mort de son père, il établit sa capitale à Tenkodogo, qui signifie « vieille terre »."
+        },
+        {
+          "debut": 103.33,
+          "fin": 112.995,
+          "texte": "Yennenga et Rialé eurent aussi un fils, Diaba Lompo, qui fonda le royaume du Gourma et la dynastie gourmantché, autour de Fada N'Gourma.",
+          "fr": "Yennenga et Rialé eurent aussi un fils, Diaba Lompo, qui fonda le royaume du Gourma et la dynastie gourmantché, autour de Fada N'Gourma."
+        }
+      ]
+    }
+  },
+  "scenes": {
+    "debut": {
+      "themeVisuel": "savane-seche",
+      "ambiance": "vent",
+      "description": "Fille du roi Nedega, la cavalière Yennenga quitte Gambaga, rencontre Rialé et donne naissance à Ouédraogo, fondateur de Tenkodogo.",
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "titreFin": "La mère des royaumes mossi",
+      "fin": "De l'union de Yennenga et de Rialé naît Ouédraogo, qui fonde Tenkodogo. Leur autre fils, Diaba Lompo, fonde le royaume du Gourma. La lignée de Yennenga traverse l'histoire des royaumes mossi.",
+      "morale": "La mémoire de Yennenga demeure au cœur de la fondation des royaumes mossi."
+    }
+  }
+}

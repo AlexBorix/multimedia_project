@@ -1,0 +1,106 @@
+[
+  {
+    "id": "centre",
+    "nom": "Centre",
+    "chefLieu": "Ouagadougou",
+    "lat": 12.3714,
+    "lon": -1.5197,
+    "description": "Cœur politique et culturel du pays, terre des grands marchés et des conteurs de la capitale."
+  },
+  {
+    "id": "boucle-du-mouhoun",
+    "nom": "Boucle du Mouhoun",
+    "chefLieu": "Dédougou",
+    "lat": 12.4634,
+    "lon": -3.4606,
+    "description": "Berceau du fleuve Mouhoun, région de plaines, de masques et de greniers à mil."
+  },
+  {
+    "id": "cascades",
+    "nom": "Cascades",
+    "chefLieu": "Banfora",
+    "lat": 10.6333,
+    "lon": -4.7667,
+    "description": "Pays des falaises de grès, des cascades de Karfiguéla et des vergers de mangues."
+  },
+  {
+    "id": "centre-est",
+    "nom": "Centre-Est",
+    "chefLieu": "Tenkodogo",
+    "lat": 11.78,
+    "lon": -0.3697,
+    "description": "Terres de fonte et de forge, gardiennes des récits des royaumes mossi du sud."
+  },
+  {
+    "id": "centre-nord",
+    "nom": "Centre-Nord",
+    "chefLieu": "Kaya",
+    "lat": 13.0917,
+    "lon": -1.0844,
+    "description": "Carrefour des routes du Sahel, pays des cuirs, des potières et des griots du Nord."
+  },
+  {
+    "id": "centre-ouest",
+    "nom": "Centre-Ouest",
+    "chefLieu": "Koudougou",
+    "lat": 12.2526,
+    "lon": -2.3627,
+    "description": "Ville carrefour et terre d'artisans, au cœur des récits de la plaine centrale."
+  },
+  {
+    "id": "centre-sud",
+    "nom": "Centre-Sud",
+    "chefLieu": "Manga",
+    "lat": 11.6636,
+    "lon": -1.0731,
+    "description": "Pays des collines de granit et des villages perchés, gardien des contes du soir."
+  },
+  {
+    "id": "est",
+    "nom": "Est",
+    "chefLieu": "Fada N'Gourma",
+    "lat": 12.0616,
+    "lon": 0.3583,
+    "description": "Porte du Gourma, terre des chasseurs, des forêts sacrées et des récits de brousse."
+  },
+  {
+    "id": "hauts-bassins",
+    "nom": "Hauts-Bassins",
+    "chefLieu": "Bobo-Dioulasso",
+    "lat": 11.1771,
+    "lon": -4.2979,
+    "description": "Capitale culturelle, célèbre pour sa vieille mosquée en banco, ses griots et sa musique."
+  },
+  {
+    "id": "nord",
+    "nom": "Nord",
+    "chefLieu": "Ouahigouya",
+    "lat": 13.5828,
+    "lon": -2.4216,
+    "description": "Haut pays mossi, terre de la Yatenga, des forgerons et des récits de fondation."
+  },
+  {
+    "id": "plateau-central",
+    "nom": "Plateau Central",
+    "chefLieu": "Ziniaré",
+    "lat": 12.5819,
+    "lon": -1.2975,
+    "description": "Plateau granitique, terre du musée de Mané et de la mémoire des sages."
+  },
+  {
+    "id": "sahel",
+    "nom": "Sahel",
+    "chefLieu": "Dori",
+    "lat": 14.0354,
+    "lon": -0.0345,
+    "description": "Portes du désert, pays des pasteurs peuls, des caravanes et des vents de l'Harmattan."
+  },
+  {
+    "id": "sud-ouest",
+    "nom": "Sud-Ouest",
+    "chefLieu": "Gaoua",
+    "lat": 10.3319,
+    "lon": -3.1831,
+    "description": "Pays lobi, terre des pintades, des rites initiatiques et des contes de la forêt."
+  }
+]

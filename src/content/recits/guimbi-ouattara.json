@@ -1,0 +1,86 @@
+{
+  "id": "guimbi-ouattara",
+  "titre": "La princesse Guimbi Ouattara",
+  "type": "recit-historique",
+  "resume": "Figure politique de Bobo-Dioulasso, Guimbi Ouattara négocie la paix avec Samori Touré et forme une alliance contre les Tiéfo.",
+  "region": "Hauts-Bassins",
+  "lieu": "Bobo-Dioulasso",
+  "conteur": "c2",
+  "duree": 81.11,
+  "langues": {
+    "francais": {
+      "nomLangue": "Français",
+      "audio": null,
+      "segments": [
+        {
+          "debut": 0,
+          "fin": 6.385,
+          "texte": "La princesse Guimbi Ouattara était une personnalité historique importante de Bobo-Dioulasso.",
+          "fr": "La princesse Guimbi Ouattara était une personnalité historique importante de Bobo-Dioulasso."
+        },
+        {
+          "debut": 6.665,
+          "fin": 15.565,
+          "texte": "Elle joua un rôle politique et diplomatique remarquable dans les relations entre les royaumes et les puissances qui se disputaient le contrôle de la région.",
+          "fr": "Elle joua un rôle politique et diplomatique remarquable dans les relations entre les royaumes et les puissances qui se disputaient le contrôle de la région."
+        },
+        {
+          "debut": 15.845,
+          "fin": 28.635,
+          "texte": "À une certaine époque, Samori Touré menaça de détruire le royaume de la princesse, car elle entretenait des relations avec les Français, notamment avec Tiéfo, considéré comme l'un de ses ennemis.",
+          "fr": "À une certaine époque, Samori Touré menaça de détruire le royaume de la princesse, car elle entretenait des relations avec les Français, notamment avec Tiéfo, considéré comme l'un de ses ennemis."
+        },
+        {
+          "debut": 28.915,
+          "fin": 37.03,
+          "texte": "En effet, les Tiéfo s'étaient séparés de Guimbi Ouattara et de son peuple à la suite de divergences religieuses et politiques.",
+          "fr": "En effet, les Tiéfo s'étaient séparés de Guimbi Ouattara et de son peuple à la suite de divergences religieuses et politiques."
+        },
+        {
+          "debut": 37.31,
+          "fin": 50.27,
+          "texte": "Face à la menace, la princesse décida de se rendre auprès de Samori Touré afin de négocier la paix. Elle lui apporta des cadeaux et ajouta une préparation particulière au lait qu'il devait boire.",
+          "fr": "Face à la menace, la princesse décida de se rendre auprès de Samori Touré afin de négocier la paix. Elle lui apporta des cadeaux et ajouta une préparation particulière au lait qu'il devait boire."
+        },
+        {
+          "debut": 50.55,
+          "fin": 61.095,
+          "texte": "Au cours de leur rencontre, ils discutèrent de la paix et de leur ennemi commun, les Tiéfo. Les négociations aboutirent à une alliance entre les deux personnalités.",
+          "fr": "Au cours de leur rencontre, ils discutèrent de la paix et de leur ennemi commun, les Tiéfo. Les négociations aboutirent à une alliance entre les deux personnalités."
+        },
+        {
+          "debut": 61.375,
+          "fin": 71.715,
+          "texte": "Ensemble, ils combattirent les Tiéfo considérés comme rebelles. La princesse accompagna notamment Samori Touré lors de la destruction de Noumoudara.",
+          "fr": "Ensemble, ils combattirent les Tiéfo considérés comme rebelles. La princesse accompagna notamment Samori Touré lors de la destruction de Noumoudara."
+        },
+        {
+          "debut": 71.995,
+          "fin": 81.11,
+          "texte": "Grâce à son influence politique et à son sens de la négociation, Guimbi Ouattara demeure une figure historique importante de Bobo-Dioulasso.",
+          "fr": "Grâce à son influence politique et à son sens de la négociation, Guimbi Ouattara demeure une figure historique importante de Bobo-Dioulasso."
+        }
+      ]
+    }
+  },
+  "scenes": {
+    "debut": {
+      "themeVisuel": "mosquee-banco",
+      "ambiance": "savane",
+      "description": "Figure politique de Bobo-Dioulasso, Guimbi Ouattara négocie la paix avec Samori Touré et forme une alliance contre les Tiéfo.",
+      "segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "titreFin": "La paix par la négociation",
+      "fin": "Guimbi Ouattara négocie avec Samori Touré, scelle une alliance et prend part à la campagne contre les Tiéfo. Son rôle diplomatique reste attaché à l'histoire de Bobo-Dioulasso.",
+      "morale": "Son influence politique et son sens de la négociation ont marqué l'histoire de Bobo-Dioulasso."
+    }
+  }
+}
