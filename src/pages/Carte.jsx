@@ -623,24 +623,6 @@ export default function Carte() {
     }
   }, [mapReady, searchParams]);
 
-  const finishIntro = useCallback(() => {
-    introTimersRef.current.forEach((timer) => window.clearTimeout(timer));
-    introTimersRef.current = [];
-    const map = mapRef.current;
-    if (map) {
-      map.stop();
-      map.jumpTo({ ...FINAL_VIEW, duration: 0 });
-      map.setLayoutProperty('graticule', 'visibility', 'none');
-      map.setLayoutProperty('regions-intro', 'visibility', 'none');
-      map.setLayoutProperty('regions-shadow', 'visibility', 'visible');
-      map.setLayoutProperty('regions-fill-3d', 'visibility', is3D ? 'visible' : 'none');
-      map.setLayoutProperty('regions-fill-2d', 'visibility', is3D ? 'none' : 'visible');
-      setMapInteractions(map, true);
-    }
-    setIntroDone(true);
-    setIntroPhase('done');
-  }, [is3D]);
-
   const recenter = () => {
     const map = mapRef.current;
     if (!map) return;
@@ -901,14 +883,7 @@ export default function Carte() {
               Burkina Faso.
             </p>
           </div>
-          <button
-            type="button"
-            onClick={finishIntro}
-            className="intro-skip fade-up fade-up--2 mt-10 inline-flex items-center gap-2 rounded-full border border-[#d9a441]/45 bg-[#d9a441]/10 px-5 py-2.5 text-sm font-semibold text-[#f5d78e] transition hover:bg-[#d9a441] hover:text-[#12142f]"
-          >
-            Passer l’introduction <ArrowUpRight className="h-4 w-4" />
-          </button>
-          <p className="fade-up fade-up--3 mt-4 text-[11px] uppercase tracking-[0.28em] text-[#efe3cc]/40">
+          <p className="fade-up fade-up--2 mt-10 text-[11px] uppercase tracking-[0.28em] text-[#efe3cc]/40">
             {introPhase === 'orbit' && 'Le globe rejoint le Burkina Faso'}
             {introPhase === 'highlight' && 'Les récits prennent racine'}
             {introPhase === 'plunge' && 'Explorez les régions et leurs récits'}

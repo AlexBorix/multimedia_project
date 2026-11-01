@@ -14,7 +14,7 @@ Référence visuelle : l'intro du prototype se joue au chargement de la page
 | 3,75 à 5,65 s | La caméra plonge sur le Burkina ; le titre s'efface et les régions apparaissent en relief extrudé. |
 | 5,65 à 6,15 s | L'overlay disparaît en fondu et l'utilisateur peut explorer la carte. |
 
-Le bouton « Passer l'introduction » reste utilisable pendant l'animation. Si l'utilisateur a `prefers-reduced-motion`, l'application affiche directement la carte finale.
+L'introduction se joue jusqu'à la carte finale. Si l'utilisateur a `prefers-reduced-motion`, l'application affiche directement la carte finale.
 
 ---
 

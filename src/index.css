@@ -419,7 +419,6 @@ h1, h2, h3, h4, .font-serif {
 }
 
 .intro-title,
-.intro-skip,
 .intro-overlay > p {
   position: relative;
   z-index: 1;
